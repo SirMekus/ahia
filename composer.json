@@ -3,7 +3,7 @@
     "description": "OOP way for database CRUD operations",
     "type": "library",
     "require": {
-        "sirmekus/zam": "^2.0"
+        "sirmekus/zam": ">=2.0"
     },
     "license": "MIT",
     "authors": [
