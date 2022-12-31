@@ -10,7 +10,7 @@ To get started all you need to do is:
 composer require sirmekus/ahia
 ```
 
-and you're in. `Ahia`, in Igbo language, means **"Market"** and in context, a database is a "market place" with lots of items in it. Lol.
+and you're in. `Ahia`, in Igbo language, means **"Market"** and in context, a database is a "market place" with lots of 'items' (data) in it. Lol.
 
 ---
 
