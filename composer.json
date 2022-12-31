@@ -1,0 +1,20 @@
+{
+    "name": "sirmekus/ahia",
+    "description": "OOP way for database CRUD operations",
+    "type": "library",
+    "require": {
+        "sirmekus/zam": "^1.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sirmekus",
+            "email": "mekus600@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sirmekus\\Database\\": "src/database"
+        }
+    }
+}
